@@ -1,0 +1,8 @@
+
+.vscode/tasks.json
+/.vscode
+/.vs
+/build/.cmake/api/v1/reply
+/build
+/out
+/homework/.vscode
